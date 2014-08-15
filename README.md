@@ -30,4 +30,4 @@ Extracted tweets containing "I feel" or "I am feeling" following [We Feel Fine](
 
 Download feeling list from We Feel Fine
 
-    wget http://wefeelfine.org/data/files/feelings.txt
+    cd feelings && wget http://wefeelfine.org/data/files/feelings.txt
