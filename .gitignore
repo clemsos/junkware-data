@@ -1,6 +1,7 @@
 wikipedia/*/
 patents/*/
 feelings/*/
+books/*/
 *sqlite3
 
 # Byte-compiled / optimized / DLL files
