@@ -1,8 +1,8 @@
 wikipedia/*/
-patents/*/
+patents_oldies
 feelings/*/
 books/*/
-*sqlite3
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
